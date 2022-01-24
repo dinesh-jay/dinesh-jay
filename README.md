@@ -5,5 +5,4 @@
 - 💬 Ask me about distributed systems, software decomposition.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/radeeyjd)
 - 😄 Pronouns: they / them / their
-- ⚡ Fun fact: I know the best Nanaimo bar place in Nanaimo!
 - 🙏 Have a great day! 
