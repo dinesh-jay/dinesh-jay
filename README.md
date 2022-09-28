@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning how to build fast, scalable streaming applications.
 - 💬 Ask me about Distributed Systems, Software Architecture, AWS, Software Decomposition.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/radeeyjd)
-- 😄 Pronouns: they / them / their
+- 😄 Pronouns: he / him or  they / them
 - 🙏 Have a great day! 
