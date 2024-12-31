@@ -3,11 +3,6 @@
 ## Cheat
 - [Idioms Cheat](https://www.programming-idioms.org/about#about-block-cheatsheets)
 
-## Study
-- [Excecism](https://exercism.io/my/tracks)
-- [Code Byte](https://coderbyte.com/)
-- [Free Code Camp](https://www.freecodecamp.org)
-
 ### Learning Resources
 - [AWS Well Architected](https://aws.amazon.com/architecture/well-architected)
 - [Azure Cloud Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/#catalog-of-patterns)
@@ -19,6 +14,11 @@
 - [Plant UML(Sequence & UML)](https://plantuml.com/)
 - [Excalidraw](https://excalidraw.com/)
 - [Mermaid](https://mermaid.js.org/intro/)
+
+## Practice
+- [Excecism](https://exercism.io/my/tracks)
+- [Code Byte](https://coderbyte.com/)
+- [Free Code Camp](https://www.freecodecamp.org)
 
 ## Videos
 - [Free Code Camp](https://www.youtube.com/c/Freecodecamp/videos)
